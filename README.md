@@ -2,6 +2,6 @@
 
 ## Assignment 02: Generate Neural Net Model to fit Bangla Digit Recognition Dataset and MNIST Fasion Dataset.
 
-**Done By**
-**Name: Shafayet Ul Islam**
-**ID: 170104029**
+**Done By**\
+**Name: Shafayet Ul Islam**\
+**ID: 170104029**\
